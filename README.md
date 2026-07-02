@@ -4,15 +4,7 @@
 
 This project focuses on applying advanced SQL techniques to analyse a large Apple retail dataset containing more than one million records. The data covers product details, store information, sales activities, and warranty claims from Apple retail outlets around the world. Through a series of analytical tasks ranging from straightforward to highly complex, the project highlights the ability to use SQL for uncovering meaningful business insights from extensive datasets.
     It serves as an excellent opportunity for aspiring and experienced data analysts to strengthen their SQL expertise by working with high-volume, real-world data and addressing practical business scenarios through data-driven analysis.
-
-## Entity Relationship Diagram (ERD)
-
-
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
-
-Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
-
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## Database Schema
 
